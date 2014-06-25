@@ -1,0 +1,17 @@
+.stockFlagl {
+background: url(../../img/stockstatus.png) no-repeat 7px -46px;
+padding-left: 20px;
+}
+#ampel_list {
+padding-top: 30px;
+width: 100%;
+}
+.stockFlagig {
+background: url(../../img/stockstatus.png) no-repeat 7px -46px;
+padding-left: 20px;
+}
+#ampel_list_ig {
+width: 100%;
+padding-left: 135px;
+margin: -154px;
+}
